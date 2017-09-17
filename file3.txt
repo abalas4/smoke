@@ -1,0 +1,1 @@
+content of file 3 for Release 3.0
